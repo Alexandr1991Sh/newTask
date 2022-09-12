@@ -112,3 +112,6 @@ function f9() {
 let out10 = document.querySelector('.out10');
 let select = document.querySelector('.select');
 document.querySelector('.b10').onclick = () => out10.textContent = select.value;
+
+
+//Task 11
